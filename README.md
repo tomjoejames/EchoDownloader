@@ -4,12 +4,15 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
+<img width="848" height="917" alt="Screenshot from 2026-01-17 13-43-08" src="https://github.com/user-attachments/assets/661e28e0-e266-4855-b76e-0110103e199b" />
 
 **Echo Downloader** is a lightweight, local desktop-style application for downloading YouTube videos as **MP3 (audio)** or **MP4 (video)** at the highest available quality.
 
 It runs a local Flask server and opens a clean browser UI automatically, giving you an **app-like experience without Electron or heavy frameworks**.
 
 ---
+[Screencast from 2026-01-17 13-41-27.webm](https://github.com/user-attachments/assets/33ec46de-4ed1-49b0-9003-cff4750a4b08)
+
 
 ## ✨ Features
 
