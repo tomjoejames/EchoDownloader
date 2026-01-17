@@ -13,7 +13,7 @@ It runs a local Flask server and opens a clean browser UI automatically, giving 
 ---
 [Screencast from 2026-01-17 13-41-27.webm](https://github.com/user-attachments/assets/33ec46de-4ed1-49b0-9003-cff4750a4b08)
 
-
+built by [Tom Joe James](https://tomjoejames.com)
 ## ✨ Features
 
 - 🎵 MP3 (audio-only, high quality)
